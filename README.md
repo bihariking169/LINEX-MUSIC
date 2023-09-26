@@ -15,7 +15,7 @@ README.md<h2 align="center">
 </p>
 
 <p align="center">
-  <img src="https://te.legra.ph/file/82f1053c956dd6256ff1e.jpg">
+  <img src="https://te.legra.ph/file/b5c0e09acfb002c21fed5.jpg">
 </p>
 
 <h3 align="center">
