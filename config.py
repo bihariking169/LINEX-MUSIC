@@ -32,7 +32,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO", 
-    "https://github.com/WCGKING/BRANDEDXMUSIC"
+    "https://github.com/bihariking169/LINEX-MUSIC"
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv(
@@ -78,10 +78,10 @@ confirmer = {}
 
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://te.legra.ph/file/536723ead419ce4d039eb.jpg"
+    "START_IMG_URL", "https://te.legra.ph/file/b5c0e09acfb002c21fed5.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL","https://te.legra.ph/file/b5a457725d59cc7765dde.jpg"
+    "PING_IMG_URL","https://te.legra.ph/file/0353d8c854b3420eb8dcf.jpg"
 )
 PLAYLIST_IMG_URL = "https://te.legra.ph/file/4ec5ae4381dffb039b4ef.jpg"
 STATS_IMG_URL = "https://te.legra.ph/file/4ec5ae4381dffb039b4ef.jpg"
